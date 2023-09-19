@@ -95,7 +95,7 @@
     text-align: center;
 }
 
-.aligned-text_right{
+.aligned-text_right {
     text-align: right;
 }
 
@@ -236,7 +236,6 @@
     justify-content: center;
     background-color: #000;
     border-radius: 50%;
-    width: 240px;
     width: 240px;
 }
 
